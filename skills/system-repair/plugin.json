@@ -1,0 +1,18 @@
+{
+  "name": "system-repair",
+  "version": "1.0.0",
+  "description": "System repair skill for Red-team-Agents",
+  "author": "KUBTechLABS",
+  "license": "MIT",
+  "main": "handler.js",
+  "capabilities": [
+    "system-diagnostics",
+    "system-repair",
+    "service-management"
+  ],
+  "permissions": [
+    "system:execute",
+    "system:read",
+    "system:write"
+  ]
+}

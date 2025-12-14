@@ -1,0 +1,20 @@
+{
+  "name": "system-repair-skill",
+  "version": "1.0.0",
+  "description": "System repair skill for Red-team-Agents",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node handler.js"
+  },
+  "keywords": [
+    "system",
+    "repair",
+    "red-team",
+    "agent"
+  ],
+  "author": "KUBTechLABS",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
